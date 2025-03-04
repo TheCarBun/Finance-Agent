@@ -9,6 +9,8 @@
 
 Finance Agent is a powerful tool designed to assist with comprehensive financial analysis. It leverages advanced AI models to provide detailed insights into market trends, stock performance, and investment recommendations. This project was developed following a tutorial from Jie Jenn on [YouTube](https://youtu.be/_i-yMf_cSHw).
 
+![financeagent-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a713b84a-11e6-4f72-b48e-5d4b8372fbe2)
+
 ## 🚀 Features
 
 - **Market Overview**: Get the latest stock prices, 52-week highs and lows.
