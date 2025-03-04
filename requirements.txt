@@ -1,0 +1,5 @@
+agno
+yfinance
+sqlalchemy
+fastapi[standard]
+openai
